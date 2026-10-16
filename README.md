@@ -1,9 +1,3 @@
----
-layout: full
----
-
-![banner](assets/banner.png)
-
 # Hi, I'm Mohsin Ali 👋
 
 I build practical software across full-stack development, Android, and machine learning.
@@ -11,7 +5,7 @@ I build practical software across full-stack development, Android, and machine l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinalijoo/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohsinalijoo)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohsinalijoo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-mohsin-alis-projects-2c907dd9.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://mohsinalijoo.vercel.app)
 
 ---
 
