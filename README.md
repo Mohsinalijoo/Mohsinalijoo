@@ -4,40 +4,41 @@ layout: full
 
 ![banner](assets/banner.png)
 
-Hi, I'm Mohsin Ali. I'm a software developer interested in building practical applications, solving problems, and continuously improving my software engineering skills. My projects span full‑stack development, Android applications, and machine learning.
+# Hi, I'm Mohsin Ali 👋
 
-Professional identity
+I build practical software across full-stack development, Android, and machine learning.
 
-Software Developer | Java | Full-Stack | Android | AI/ML
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinalijoo/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohsinalijoo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-mohsin-alis-projects-2c907dd9.vercel.app)
 
-About me
+---
 
-I build practical apps that solve real problems — web and backend services, Android apps, and ML prototypes. I focus on clean code, incremental delivery, and reproducible experiments.
+## Projects
 
-Featured projects
+- 🎓 **[StudyLoop](https://github.com/Mohsinalijoo/StudyLoop)** — A collaborative study platform with study rooms, matchmaking, and real-time communication.
+- 💊 **[Jan-Aushadhi Finder](https://github.com/Mohsinalijoo/Jan-Aushadhi-Finder-Application)** — An Android app concept for generic medicine discovery and finding Jan-Aushadhi outlets.
+- 📰 **[Fake News Classifier](https://github.com/Mohsinalijoo/fake-news-classifier)** — A machine-learning project that uses NLP to classify news text.
+- 📚 **[Book Recommendation System](https://github.com/Mohsinalijoo/Book-recommendation-System-Using-ML)** — A book recommender built with Python and collaborative-filtering techniques.
 
-- StudyLoop — https://github.com/Mohsinalijoo/StudyLoop  
-  A browser-based “study partner” app with a static frontend and an Express/Socket.IO backend. Verified stack: HTML/CSS/vanilla JS frontend, Node.js (Express), Socket.IO, MongoDB, Redis, Docker Compose. See repository for local Docker-based development and API docs.
+---
 
-- Jan‑Aushadhi Finder — https://github.com/Mohsinalijoo/Jan-Aushadhi-Finder-Application  
-  Android app built with Kotlin and Jetpack Compose that demonstrates a store-locator and medicine lookup experience. Store locations and stock responses are simulated for development (see repo notes).
+## Tech Stack
 
-- Fake News Classifier — https://github.com/Mohsinalijoo/fake-news-classifier  
-  Flask web app demonstrating an NLP classification pipeline (TF‑IDF + XGBoost/Scikit-learn preprocessing). Verified stack: Python, Flask, scikit-learn, XGBoost, NLTK. The repo includes a UI and optional NewsAPI integration; model metrics are provided in the repo but should be reproduced using the included evaluation scripts.
+**Languages:** Java · Python · JavaScript · Kotlin  
+**Development:** Node.js · Express · React · Jetpack Compose  
+**AI & Data:** Machine Learning · NLP · Generative AI · MongoDB  
+**Tools:** Git · GitHub · Docker
 
-- Book Recommendation System — https://github.com/Mohsinalijoo/Book-recommendation-System-Using-ML  
-  Streamlit-based demonstration of collaborative filtering / KNN approaches for book recommendations. Verified stack: Python, scikit-learn, Streamlit. Follow README to run locally (confirm the app entrypoint file exists before running).
+---
 
-Skills (verified from repositories)
+## About
 
-- Kotlin (Android), Jetpack Compose — Jan-Aushadhi Finder, Bloom-App
-- JavaScript (vanilla + Node) — StudyLoop frontend and backend
-- Node.js, Express, Socket.IO, MongoDB, Redis, Docker — StudyLoop backend
-- Python, Flask, scikit-learn, XGBoost, Streamlit — fake-news-classifier, Book-recommendation
-- Git, Docker, basic DevOps patterns (Docker Compose)
+I enjoy building useful products, learning new technologies, and solving problems through clean, practical software.
 
-Links
+---
 
-- LinkedIn: https://www.linkedin.com/in/mohsinalijoo/
-- Portfolio: https://portfolio-mohsin-alis-projects-2c907dd9.vercel.app
-- GitHub: https://github.com/Mohsinalijoo
+## Contact
+
+- **LinkedIn:** [mohsinalijoo](https://www.linkedin.com/in/mohsinalijoo/)
+- **Portfolio:** [View my work](https://portfolio-mohsin-alis-projects-2c907dd9.vercel.app)
