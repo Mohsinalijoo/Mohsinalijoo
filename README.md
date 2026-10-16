@@ -31,5 +31,3 @@ Links
 - Portfolio: https://portfolio-mohsin-alis-projects-2c907dd9.vercel.app
 - GitHub: https://github.com/Mohsinalijoo
 
-Optional stats and badges
-- I recommend adding a compact GitHub Readme Stats card (one row) and no more than 2 small badges (for example: top language and last commit). I can add the exact markdown lines if you want them.
